@@ -49,7 +49,7 @@ p {
     margin-bottom: 0;
 }
 .custom-navbar .navbar-brand  {
-	color: #303030;
+	color: #000000;
 	font-size: 40px;
 }
 .custom-navbar .navbar-brand .navbar-toggle {
@@ -68,7 +68,7 @@ p {
 	transition: all 0.3s ease-in-out;
 }
 .custom-navbar .nav li a:hover {
-  	background: #0040bf;
+  	background: #49EAFF;
   	transition: all 0.3s ease-in-out;
 }
 .custom-navbar .nav > li > a:focus {
@@ -76,7 +76,7 @@ p {
   	outline: none;
 }
 .custom-navbar .nav li.active > a {
-    background-color: #0040bf;
+    background-color: #49EAFF;
 }
 .custom-navbar .navbar-toggle {
     border: none;
@@ -171,7 +171,7 @@ p {
   height: 6px;
 }
 #about .progress .progress-bar-primary {
-  background: #0040bf;
+  background: #49EAFF;
 }
 
 /* portfolio section */
@@ -221,7 +221,7 @@ p {
 .filter-wrapper li .selected,
 .filter-wrapper li a:focus,
 .filter-wrapper li a:hover {
-    background: #0040bf;
+    background: #49EAFF;
     color: #ffffff;
     outline: none;
   }
@@ -345,7 +345,7 @@ footer {
   margin-right: 10px;
 }
 .social-icon li a:hover {
-  background: #0040bf;
+  background: #49EAFF;
 }
 
 /* copyright section */
@@ -362,7 +362,7 @@ footer {
 	color: #fff;
 }
 #copyright a:hover {
-	color: #0040bf;
+	color: #49EAFF;
 	text-decoration: none;
 	transition: all 0.4s ease-in-out;
 }
@@ -379,7 +379,7 @@ footer {
   transition: all 0.4s ease-in-out;
 }
 #copyright .fa:hover {
-  background: #0040bf;
+  background: #49EAFF;
   color: #000;
 }
 
